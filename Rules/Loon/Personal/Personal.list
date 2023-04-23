@@ -1,0 +1,9 @@
+# NAME: Fileball
+# AUTHOR: MuFanyin
+# REPO: https://github.com/lpurplee/-ios_vpn
+# UPDATED: 2023-04-21
+
+DOMAIN,api.revenuecat.com
+DOMAIN-SUFFIX,66a.net
+
+#DOMAIN, vip.66a.net/dns-query/17638169926, DIRECT
